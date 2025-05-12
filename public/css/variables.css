@@ -1,0 +1,72 @@
+.w-100 {
+    width: 100%;
+}
+
+.p-7 {
+    padding: 7px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+.text-center {
+    text-align: center;
+}
+
+.display-block {
+    display: block;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-danger {
+    color: red;
+}
+
+.without-border {
+    border: none;
+}
+
+.border-bottom-ccc {
+    border-bottom: 1px solid #ccc;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.btn {
+    background-color: #767676;
+    color: #000000;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary {
+    background-color: #2980b9;
+    color: #fff;
+}
+
+.btn-align-right {
+    position: absolute;
+    right: 10px;
+    bottom: 25px;
+}

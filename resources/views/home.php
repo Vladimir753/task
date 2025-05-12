@@ -1,0 +1,1 @@
+<h2 class="text-center">Welcome to my blog. To create an article please <a href="/login">login</a></h2>

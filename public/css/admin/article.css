@@ -1,0 +1,33 @@
+.articles {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.article {
+    width: 100%;
+    background-color: white;
+    border-radius: 6px;
+    padding: 0 0 0 25px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.article .title {
+    display: inline-block;
+    width: 80%;
+}
+
+.actions {
+    display: inline-block;
+    width: 18%;
+}
+
+.action {
+    display: inline;
+}
+
+.article-create-container {
+    background-color: white;
+    padding: 25px;
+    border-radius: 5px;
+}
